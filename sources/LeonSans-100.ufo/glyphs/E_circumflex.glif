@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ecircumflex" format="2">
+  <advance width="4632"/>
+  <unicode hex="00CA"/>
+  <outline>
+    <contour>
+      <point x="736" y="6048" type="line"/>
+      <point x="791" y="6048" type="line"/>
+      <point x="3960" y="6048" type="line"/>
+      <point x="3960" y="6012"/>
+      <point x="3960" y="5940"/>
+      <point x="3960" y="5904" type="qcurve"/>
+      <point x="880" y="5904" type="line"/>
+      <point x="880" y="3352" type="line"/>
+      <point x="3760" y="3352" type="line"/>
+      <point x="3760" y="3316"/>
+      <point x="3760" y="3244"/>
+      <point x="3760" y="3208" type="qcurve"/>
+      <point x="880" y="3208" type="line"/>
+      <point x="880" y="256" type="line"/>
+      <point x="3960" y="256" type="line"/>
+      <point x="3960" y="220"/>
+      <point x="3960" y="148"/>
+      <point x="3960" y="112" type="qcurve"/>
+      <point x="736" y="112" type="line"/>
+    </contour>
+    <contour>
+      <point x="1096" y="7072" type="qcurve"/>
+      <point x="1137" y="7103" type="line"/>
+      <point x="2172" y="7878" type="line"/>
+      <point x="2181" y="7884"/>
+      <point x="2198" y="7897"/>
+      <point x="2215" y="7909"/>
+      <point x="2231" y="7922"/>
+      <point x="2240" y="7928" type="qcurve"/>
+      <point x="2264" y="7928"/>
+      <point x="2312" y="7928"/>
+      <point x="2336" y="7928" type="qcurve"/>
+      <point x="3472" y="7072" type="line"/>
+      <point x="3450" y="7044"/>
+      <point x="3406" y="6988"/>
+      <point x="3384" y="6960" type="qcurve"/>
+      <point x="2288" y="7784" type="line"/>
+      <point x="1184" y="6960" type="line"/>
+      <point x="1162" y="6988"/>
+      <point x="1118" y="7044"/>
+    </contour>
+  </outline>
+</glyph>

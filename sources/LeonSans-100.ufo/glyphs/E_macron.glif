@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Emacron" format="2">
+  <advance width="4632"/>
+  <unicode hex="0112"/>
+  <outline>
+    <contour>
+      <point x="744" y="6920" type="qcurve"/>
+      <point x="799" y="6920" type="line"/>
+      <point x="3912" y="6920" type="line"/>
+      <point x="3912" y="6884"/>
+      <point x="3912" y="6812"/>
+      <point x="3912" y="6776" type="qcurve"/>
+      <point x="744" y="6776" type="line"/>
+      <point x="744" y="6812"/>
+      <point x="744" y="6884"/>
+    </contour>
+    <contour>
+      <point x="736" y="6048" type="line"/>
+      <point x="791" y="6048" type="line"/>
+      <point x="3960" y="6048" type="line"/>
+      <point x="3960" y="6012"/>
+      <point x="3960" y="5940"/>
+      <point x="3960" y="5904" type="qcurve"/>
+      <point x="880" y="5904" type="line"/>
+      <point x="880" y="3352" type="line"/>
+      <point x="3760" y="3352" type="line"/>
+      <point x="3760" y="3316"/>
+      <point x="3760" y="3244"/>
+      <point x="3760" y="3208" type="qcurve"/>
+      <point x="880" y="3208" type="line"/>
+      <point x="880" y="256" type="line"/>
+      <point x="3960" y="256" type="line"/>
+      <point x="3960" y="220"/>
+      <point x="3960" y="148"/>
+      <point x="3960" y="112" type="qcurve"/>
+      <point x="736" y="112" type="line"/>
+    </contour>
+  </outline>
+</glyph>

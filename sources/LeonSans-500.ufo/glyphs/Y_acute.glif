@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yacute" format="2">
+  <advance width="5453"/>
+  <unicode hex="00DD"/>
+  <outline>
+    <contour>
+      <point x="2972.19" y="2839.78" type="line"/>
+      <point x="2972.19" y="2785.46" type="line"/>
+      <point x="2972.19" y="112.0" type="line"/>
+      <point x="2849.29" y="112.0"/>
+      <point x="2603.49" y="112.0"/>
+      <point x="2480.59" y="112.0" type="qcurve"/>
+      <point x="2480.59" y="2839.78" type="line"/>
+      <point x="338.78" y="5826.16" type="line"/>
+      <point x="439.39" y="5896.32"/>
+      <point x="640.62" y="6036.65"/>
+      <point x="741.23" y="6106.81" type="qcurve"/>
+      <point x="2726.39" y="3307.68" type="line"/>
+      <point x="4711.54" y="6106.81" type="line"/>
+      <point x="4812.16" y="6036.65"/>
+      <point x="5013.38" y="5896.32"/>
+      <point x="5114.0" y="5826.16" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="2525.16" y="6958.06" type="qcurve"/>
+      <point x="2555.48" y="7002.06" type="line"/>
+      <point x="3182.58" y="7934.06" type="line"/>
+      <point x="3282.54" y="7867.89"/>
+      <point x="3482.46" y="7735.57"/>
+      <point x="3582.41" y="7669.41" type="qcurve"/>
+      <point x="2922.15" y="6690.81" type="line"/>
+      <point x="2822.9" y="6757.62"/>
+      <point x="2624.41" y="6891.24"/>
+    </contour>
+  </outline>
+</glyph>

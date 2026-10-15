@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Z" format="2">
+  <advance width="4781"/>
+  <unicode hex="005A"/>
+  <outline>
+    <contour>
+      <point x="398.03" y="112.0" type="line"/>
+      <point x="398.03" y="172.65"/>
+      <point x="398.03" y="293.95"/>
+      <point x="398.03" y="354.59" type="qcurve"/>
+      <point x="906.74" y="1138.24" type="line"/>
+      <point x="1797.53" y="2509.92" type="line"/>
+      <point x="3896.49" y="5746.25" type="line"/>
+      <point x="560.13" y="5746.25" type="line"/>
+      <point x="560.13" y="5821.69"/>
+      <point x="560.13" y="5972.56"/>
+      <point x="560.13" y="6048.0" type="qcurve"/>
+      <point x="4299.85" y="6048.0" type="line"/>
+      <point x="4299.85" y="5986.12"/>
+      <point x="4299.85" y="5862.36"/>
+      <point x="4299.85" y="5800.48" type="qcurve"/>
+      <point x="3267.24" y="4212.89" type="line"/>
+      <point x="1909.57" y="2124.95" type="line"/>
+      <point x="798.31" y="413.75" type="line"/>
+      <point x="4383.04" y="413.75" type="line"/>
+      <point x="4383.04" y="338.31"/>
+      <point x="4383.04" y="187.44"/>
+      <point x="4383.04" y="112.0" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

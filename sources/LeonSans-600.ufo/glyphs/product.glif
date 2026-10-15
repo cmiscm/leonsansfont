@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="product" format="2">
+  <advance width="5652"/>
+  <unicode hex="220F"/>
+  <outline>
+    <contour>
+      <point x="520.0" y="5462.91" type="line"/>
+      <point x="520.0" y="5609.18"/>
+      <point x="520.0" y="5901.73"/>
+      <point x="520.0" y="6048.0" type="qcurve"/>
+      <point x="5132.5" y="6048.0" type="line"/>
+      <point x="5132.5" y="5901.73"/>
+      <point x="5132.5" y="5609.18"/>
+      <point x="5132.5" y="5462.91" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="840.0" y="112.0" type="qcurve"/>
+      <point x="840.0" y="167.08" type="line"/>
+      <point x="840.0" y="5950.0" type="line"/>
+      <point x="989.92" y="5950.0"/>
+      <point x="1289.76" y="5950.0"/>
+      <point x="1439.68" y="5950.0" type="qcurve"/>
+      <point x="1439.68" y="112.0" type="line"/>
+      <point x="1289.76" y="112.0"/>
+      <point x="989.92" y="112.0"/>
+    </contour>
+    <contour>
+      <point x="4212.82" y="112.0" type="qcurve"/>
+      <point x="4212.82" y="167.08" type="line"/>
+      <point x="4212.82" y="5950.0" type="line"/>
+      <point x="4362.74" y="5950.0"/>
+      <point x="4662.58" y="5950.0"/>
+      <point x="4812.5" y="5950.0" type="qcurve"/>
+      <point x="4812.5" y="112.0" type="line"/>
+      <point x="4662.58" y="112.0"/>
+      <point x="4362.74" y="112.0"/>
+    </contour>
+  </outline>
+</glyph>

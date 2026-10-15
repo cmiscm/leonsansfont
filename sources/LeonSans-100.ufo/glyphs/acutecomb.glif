@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb" format="2">
+  <unicode hex="0301"/>
+  <outline>
+    <contour>
+      <point x="-276" y="4720" type="line"/>
+      <point x="-306" y="4740"/>
+      <point x="-366" y="4780"/>
+      <point x="-396" y="4800" type="qcurve"/>
+      <point x="276" y="5808" type="line"/>
+      <point x="306" y="5788"/>
+      <point x="366" y="5748"/>
+      <point x="396" y="5728" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

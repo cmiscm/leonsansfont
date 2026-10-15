@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="w" format="2">
+  <advance width="6553"/>
+  <unicode hex="0077"/>
+  <outline>
+    <contour>
+      <point x="294.41" y="3743.14" type="line"/>
+      <point x="512.71" y="3809.9"/>
+      <point x="951.08" y="3941.43"/>
+      <point x="1169.39" y="4007.74" type="qcurve"/>
+      <point x="2078.0" y="1664.62" type="line"/>
+      <point x="2921.35" y="3856.64" type="line"/>
+      <point x="3098.93" y="3856.64"/>
+      <point x="3453.58" y="3856.64"/>
+      <point x="3631.66" y="3856.64" type="qcurve"/>
+      <point x="4484.12" y="1664.62" type="line"/>
+      <point x="5383.63" y="4007.74" type="line"/>
+      <point x="5602.57" y="3942.53"/>
+      <point x="6039.68" y="3812.98"/>
+      <point x="6258.61" y="3747.76" type="qcurve"/>
+      <point x="4839.28" y="112.0" type="line"/>
+      <point x="4661.82" y="112.0"/>
+      <point x="4303.25" y="112.0"/>
+      <point x="4125.17" y="112.0" type="qcurve"/>
+      <point x="3276.51" y="2292.79" type="line"/>
+      <point x="2436.96" y="112.0" type="line"/>
+      <point x="2261.66" y="112.0"/>
+      <point x="1907.13" y="112.0"/>
+      <point x="1731.96" y="112.0" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

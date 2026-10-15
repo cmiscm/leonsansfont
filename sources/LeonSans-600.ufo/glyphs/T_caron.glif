@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tcaron" format="2">
+  <advance width="4796"/>
+  <unicode hex="0164"/>
+  <outline>
+    <contour>
+      <point x="4443.64" y="6048.0" type="line"/>
+      <point x="4443.64" y="5901.95"/>
+      <point x="4443.64" y="5609.86"/>
+      <point x="4443.64" y="5463.82" type="qcurve"/>
+      <point x="2704.57" y="5463.82" type="line"/>
+      <point x="2704.57" y="112.0" type="line"/>
+      <point x="2549.74" y="112.0"/>
+      <point x="2244.28" y="112.0"/>
+      <point x="2089.46" y="112.0" type="qcurve"/>
+      <point x="2089.46" y="5463.82" type="line"/>
+      <point x="352.85" y="5463.82" type="line"/>
+      <point x="352.85" y="5609.86"/>
+      <point x="352.85" y="5901.95"/>
+      <point x="352.85" y="6048.0" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="1189.28" y="8070.86" type="qcurve"/>
+      <point x="2398.25" y="7210.31" type="line"/>
+      <point x="3607.21" y="8070.86" type="line"/>
+      <point x="3696.01" y="7953.7"/>
+      <point x="3872.25" y="7716.81"/>
+      <point x="3961.05" y="7599.07" type="qcurve"/>
+      <point x="2526.28" y="6568.0" type="line"/>
+      <point x="2461.92" y="6568.0"/>
+      <point x="2334.57" y="6568.0"/>
+      <point x="2270.21" y="6568.0" type="qcurve"/>
+      <point x="835.44" y="7599.07" type="line"/>
+      <point x="924.25" y="7716.81"/>
+      <point x="1100.48" y="7953.7"/>
+    </contour>
+  </outline>
+</glyph>

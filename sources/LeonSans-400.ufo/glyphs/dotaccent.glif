@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccent" format="2">
+  <advance width="2787"/>
+  <unicode hex="02D9"/>
+  <outline>
+    <contour>
+      <point x="1393.66" y="4720.0" type="qcurve"/>
+      <point x="1338.56" y="4720.0"/>
+      <point x="1287.41" y="4740.69" type="qcurve"/>
+      <point x="1252.96" y="4755.4"/>
+      <point x="1194.91" y="4800.67"/>
+      <point x="1151.65" y="4858.73"/>
+      <point x="1125.06" y="4924.64"/>
+      <point x="1114.24" y="4996.45"/>
+      <point x="1123.1" y="5069.26"/>
+      <point x="1136.89" y="5103.7" type="qcurve"/>
+      <point x="1146.71" y="5126.31"/>
+      <point x="1172.29" y="5165.69"/>
+      <point x="1188.01" y="5183.4" type="qcurve"/>
+      <point x="1225.42" y="5224.7"/>
+      <point x="1275.58" y="5248.32" type="qcurve"/>
+      <point x="1303.13" y="5261.11"/>
+      <point x="1363.15" y="5274.9"/>
+      <point x="1393.66" y="5274.9" type="qcurve"/>
+      <point x="1448.74" y="5274.9"/>
+      <point x="1499.91" y="5254.22" type="qcurve"/>
+      <point x="1534.35" y="5239.49"/>
+      <point x="1592.4" y="5194.23"/>
+      <point x="1635.67" y="5136.18"/>
+      <point x="1662.24" y="5070.26"/>
+      <point x="1673.07" y="4998.45"/>
+      <point x="1664.21" y="4926.6"/>
+      <point x="1650.42" y="4891.2" type="qcurve"/>
+      <point x="1640.6" y="4869.55"/>
+      <point x="1615.01" y="4829.22"/>
+      <point x="1599.29" y="4811.49" type="qcurve"/>
+      <point x="1561.89" y="4770.19"/>
+      <point x="1511.73" y="4746.58" type="qcurve"/>
+      <point x="1484.19" y="4733.79"/>
+      <point x="1424.17" y="4720.0"/>
+    </contour>
+  </outline>
+</glyph>

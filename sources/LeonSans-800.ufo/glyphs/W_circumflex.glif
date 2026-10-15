@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Wcircumflex" format="2">
+  <advance width="7903"/>
+  <unicode hex="0174"/>
+  <outline>
+    <contour>
+      <point x="335.87" y="5922.89" type="line"/>
+      <point x="552.14" y="5976.48"/>
+      <point x="986.74" y="6082.64"/>
+      <point x="1203.01" y="6135.29" type="qcurve"/>
+      <point x="2311.35" y="2002.45" type="line"/>
+      <point x="3596.44" y="6045.82" type="line"/>
+      <point x="3774.05" y="6045.82"/>
+      <point x="4129.14" y="6045.82"/>
+      <point x="4306.75" y="6045.82" type="qcurve"/>
+      <point x="5591.85" y="2002.45" type="line"/>
+      <point x="6700.18" y="6135.29" type="line"/>
+      <point x="6916.45" y="6082.64"/>
+      <point x="7351.05" y="5976.48"/>
+      <point x="7567.33" y="5922.89" type="qcurve"/>
+      <point x="5993.13" y="112.0" type="line"/>
+      <point x="5812.41" y="112.0"/>
+      <point x="5448.93" y="112.0"/>
+      <point x="5268.21" y="112.0" type="qcurve"/>
+      <point x="3951.6" y="4267.37" type="line"/>
+      <point x="2634.98" y="112.0" type="line"/>
+      <point x="2454.33" y="112.0"/>
+      <point x="2090.85" y="112.0"/>
+      <point x="1910.07" y="112.0" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="3955.82" y="7527.93" type="line"/>
+      <point x="3909.38" y="7495.93" type="line"/>
+      <point x="2720.89" y="6656.29" type="line"/>
+      <point x="2581.26" y="6823.22"/>
+      <point x="2304.13" y="7157.9"/>
+      <point x="2164.51" y="7325.71" type="qcurve"/>
+      <point x="3780.39" y="8470.33" type="line"/>
+      <point x="3868.54" y="8470.33"/>
+      <point x="4045.09" y="8470.33"/>
+      <point x="4132.38" y="8470.33" type="qcurve"/>
+      <point x="5738.69" y="7324.71" type="line"/>
+      <point x="5599.06" y="7157.84"/>
+      <point x="5321.93" y="6823.1"/>
+      <point x="5182.31" y="6655.29" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

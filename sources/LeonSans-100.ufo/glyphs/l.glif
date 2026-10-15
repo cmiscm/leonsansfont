@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l" format="2">
+  <advance width="1464"/>
+  <unicode hex="006C"/>
+  <outline>
+    <contour>
+      <point x="656" y="112" type="qcurve"/>
+      <point x="656" y="168" type="line"/>
+      <point x="656" y="6048" type="line"/>
+      <point x="694" y="6048"/>
+      <point x="770" y="6048"/>
+      <point x="808" y="6048" type="qcurve"/>
+      <point x="808" y="112" type="line"/>
+      <point x="770" y="112"/>
+      <point x="694" y="112"/>
+    </contour>
+  </outline>
+</glyph>

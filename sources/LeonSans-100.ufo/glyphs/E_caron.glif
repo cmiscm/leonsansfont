@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ecaron" format="2">
+  <advance width="4632"/>
+  <unicode hex="011A"/>
+  <outline>
+    <contour>
+      <point x="1240" y="7928" type="qcurve"/>
+      <point x="2344" y="7104" type="line"/>
+      <point x="3448" y="7928" type="line"/>
+      <point x="3468" y="7900"/>
+      <point x="3508" y="7844"/>
+      <point x="3528" y="7816" type="qcurve"/>
+      <point x="2392" y="6960" type="line"/>
+      <point x="2368" y="6960"/>
+      <point x="2320" y="6960"/>
+      <point x="2296" y="6960" type="qcurve"/>
+      <point x="1160" y="7816" type="line"/>
+      <point x="1180" y="7844"/>
+      <point x="1220" y="7900"/>
+    </contour>
+    <contour>
+      <point x="736" y="6048" type="line"/>
+      <point x="791" y="6048" type="line"/>
+      <point x="3960" y="6048" type="line"/>
+      <point x="3960" y="6012"/>
+      <point x="3960" y="5940"/>
+      <point x="3960" y="5904" type="qcurve"/>
+      <point x="880" y="5904" type="line"/>
+      <point x="880" y="3352" type="line"/>
+      <point x="3760" y="3352" type="line"/>
+      <point x="3760" y="3316"/>
+      <point x="3760" y="3244"/>
+      <point x="3760" y="3208" type="qcurve"/>
+      <point x="880" y="3208" type="line"/>
+      <point x="880" y="256" type="line"/>
+      <point x="3960" y="256" type="line"/>
+      <point x="3960" y="220"/>
+      <point x="3960" y="148"/>
+      <point x="3960" y="112" type="qcurve"/>
+      <point x="736" y="112" type="line"/>
+    </contour>
+  </outline>
+</glyph>

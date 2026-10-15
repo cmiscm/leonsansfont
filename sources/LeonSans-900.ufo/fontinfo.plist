@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <integer>8800</integer>
+    <key>capHeight</key>
+    <integer>6048</integer>
+    <key>copyright</key>
+    <string>Copyright 2019 The Leon Sans Project Authors (https://github.com/cmiscm/leonsansfont)</string>
+    <key>descender</key>
+    <integer>-2256</integer>
+    <key>familyName</key>
+    <string>Leon Sans</string>
+    <key>openTypeHheaAscender</key>
+    <integer>8800</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-2256</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>0</integer>
+    <key>openTypeNameDesigner</key>
+    <string>Jongmin Kim</string>
+    <key>openTypeNameDesignerURL</key>
+    <string>https://leon-kim.com</string>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
+    </array>
+    <key>openTypeOS2Type</key>
+    <array/>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>8800</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-2256</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>0</integer>
+    <key>openTypeOS2VendorID</key>
+    <string>NONE</string>
+    <key>openTypeOS2WeightClass</key>
+    <integer>900</integer>
+    <key>openTypeOS2WidthClass</key>
+    <integer>5</integer>
+    <key>openTypeOS2WinAscent</key>
+    <integer>8800</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>2256</integer>
+    <key>styleMapFamilyName</key>
+    <string>Leon Sans Black</string>
+    <key>styleMapStyleName</key>
+    <string>regular</string>
+    <key>styleName</key>
+    <string>Black</string>
+    <key>unitsPerEm</key>
+    <integer>8000</integer>
+    <key>versionMajor</key>
+    <integer>2</integer>
+    <key>versionMinor</key>
+    <integer>0</integer>
+    <key>xHeight</key>
+    <integer>3944</integer>
+  </dict>
+</plist>

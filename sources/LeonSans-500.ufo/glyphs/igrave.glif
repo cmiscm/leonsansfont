@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="igrave" format="2">
+  <advance width="1760"/>
+  <unicode hex="00EC"/>
+  <outline>
+    <contour>
+      <point x="637.6" y="3904.0" type="line"/>
+      <point x="762.0" y="3904.0"/>
+      <point x="1010.8" y="3904.0"/>
+      <point x="1135.2" y="3904.0" type="qcurve"/>
+      <point x="1135.2" y="112.0" type="line"/>
+      <point x="1010.8" y="112.0"/>
+      <point x="762.0" y="112.0"/>
+      <point x="637.6" y="112.0" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="46.0" y="6120.0" type="line"/>
+      <point x="146.2" y="6186.6"/>
+      <point x="346.6" y="6319.8"/>
+      <point x="446.8" y="6386.4" type="qcurve"/>
+      <point x="1094.8" y="5410.4" type="line"/>
+      <point x="995.2" y="5343.8"/>
+      <point x="796.0" y="5210.6"/>
+      <point x="696.4" y="5144.0" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

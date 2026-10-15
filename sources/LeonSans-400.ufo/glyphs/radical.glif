@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="radical" format="2">
+  <advance width="5667"/>
+  <unicode hex="221A"/>
+  <outline>
+    <contour>
+      <point x="1467.93" y="112.0" type="qcurve"/>
+      <point x="1447.91" y="163.59" type="line"/>
+      <point x="440.0" y="2809.65" type="line"/>
+      <point x="531.94" y="2842.68"/>
+      <point x="715.81" y="2908.73"/>
+      <point x="807.75" y="2941.75" type="qcurve"/>
+      <point x="1632.64" y="760.86" type="line"/>
+      <point x="3633.0" y="6048.0" type="line"/>
+      <point x="3724.94" y="6014.98"/>
+      <point x="3908.82" y="5948.93"/>
+      <point x="4000.75" y="5915.9" type="qcurve"/>
+      <point x="1789.64" y="112.0" type="line"/>
+      <point x="1709.21" y="112.0"/>
+      <point x="1548.35" y="112.0"/>
+    </contour>
+    <contour>
+      <point x="3633.0" y="5701.97" type="line"/>
+      <point x="3633.0" y="5788.47"/>
+      <point x="3633.0" y="5961.49"/>
+      <point x="3633.0" y="6048.0" type="qcurve"/>
+      <point x="5226.75" y="6048.0" type="line"/>
+      <point x="5226.75" y="5961.49"/>
+      <point x="5226.75" y="5788.47"/>
+      <point x="5226.75" y="5701.97" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

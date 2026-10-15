@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ygrave" format="2">
+  <advance width="5666"/>
+  <unicode hex="1EF2"/>
+  <outline>
+    <contour>
+      <point x="3272.4" y="2790.77" type="line"/>
+      <point x="3272.4" y="2736.87" type="line"/>
+      <point x="3272.4" y="112.0" type="line"/>
+      <point x="3052.59" y="112.0"/>
+      <point x="2612.98" y="112.0"/>
+      <point x="2393.18" y="112.0" type="qcurve"/>
+      <point x="2393.18" y="2790.77" type="line"/>
+      <point x="335.87" y="5663.7" type="line"/>
+      <point x="518.46" y="5787.24"/>
+      <point x="883.65" y="6036.0"/>
+      <point x="1066.24" y="6159.53" type="qcurve"/>
+      <point x="2832.79" y="3653.21" type="line"/>
+      <point x="4599.34" y="6159.53" type="line"/>
+      <point x="4781.93" y="6035.1"/>
+      <point x="5147.11" y="5787.14"/>
+      <point x="5329.71" y="5663.7" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="3012.74" y="6679.53" type="qcurve"/>
+      <point x="2985.98" y="6718.74" type="line"/>
+      <point x="1911.51" y="8290.82" type="line"/>
+      <point x="2097.08" y="8411.25"/>
+      <point x="2467.17" y="8652.01"/>
+      <point x="2652.84" y="8773.34" type="qcurve"/>
+      <point x="3754.06" y="7162.06" type="line"/>
+      <point x="3568.5" y="7040.73"/>
+      <point x="3198.4" y="6799.97"/>
+    </contour>
+  </outline>
+</glyph>

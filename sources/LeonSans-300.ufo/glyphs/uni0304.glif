@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0304" format="2">
+  <unicode hex="0304"/>
+  <outline>
+    <contour>
+      <point x="-1664.21" y="4720.0" type="line"/>
+      <point x="-1664.21" y="4796.1"/>
+      <point x="-1664.21" y="4948.31"/>
+      <point x="-1664.21" y="5024.42" type="qcurve"/>
+      <point x="1664.21" y="5024.42" type="line"/>
+      <point x="1664.21" y="4948.31"/>
+      <point x="1664.21" y="4796.1"/>
+      <point x="1664.21" y="4720.0" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

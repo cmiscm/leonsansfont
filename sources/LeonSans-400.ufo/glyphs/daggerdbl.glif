@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="daggerdbl" format="2">
+  <advance width="2724"/>
+  <unicode hex="2021"/>
+  <outline>
+    <contour>
+      <point x="1559.24" y="-13.45" type="line"/>
+      <point x="1460.52" y="-13.45"/>
+      <point x="1263.07" y="-13.45"/>
+      <point x="1164.35" y="-13.45" type="qcurve"/>
+      <point x="1164.35" y="1802.55" type="line"/>
+      <point x="172.34" y="1802.55" type="line"/>
+      <point x="172.34" y="1901.28"/>
+      <point x="172.34" y="2098.72"/>
+      <point x="172.34" y="2197.45" type="qcurve"/>
+      <point x="1164.35" y="2197.45" type="line"/>
+      <point x="1164.35" y="3962.55" type="line"/>
+      <point x="172.34" y="3962.55" type="line"/>
+      <point x="172.34" y="4061.28"/>
+      <point x="172.34" y="4258.73"/>
+      <point x="172.34" y="4357.45" type="qcurve"/>
+      <point x="1164.35" y="4357.45" type="line"/>
+      <point x="1164.35" y="6173.45" type="line"/>
+      <point x="1263.07" y="6173.45"/>
+      <point x="1460.52" y="6173.45"/>
+      <point x="1559.24" y="6173.45" type="qcurve"/>
+      <point x="1559.24" y="4357.45" type="line"/>
+      <point x="2551.24" y="4357.45" type="line"/>
+      <point x="2551.24" y="4258.73"/>
+      <point x="2551.24" y="4061.28"/>
+      <point x="2551.24" y="3962.55" type="qcurve"/>
+      <point x="1559.24" y="3962.55" type="line"/>
+      <point x="1559.24" y="2197.45" type="line"/>
+      <point x="2551.24" y="2197.45" type="line"/>
+      <point x="2551.24" y="2098.72"/>
+      <point x="2551.24" y="1901.28"/>
+      <point x="2551.24" y="1802.55" type="qcurve"/>
+      <point x="1559.24" y="1802.55" type="line"/>
+    </contour>
+  </outline>
+</glyph>

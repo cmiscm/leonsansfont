@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="minute" format="2">
+  <advance width="1816"/>
+  <unicode hex="2032"/>
+  <outline>
+    <contour>
+      <point x="519.0" y="4694.8" type="qcurve"/>
+      <point x="946.8" y="6282.0" type="line"/>
+      <point x="1066.2" y="6249.7"/>
+      <point x="1305.3" y="6185.5"/>
+      <point x="1425.0" y="6153.2" type="qcurve"/>
+      <point x="997.2" y="4566.7" type="line"/>
+      <point x="877.8" y="4598.3"/>
+      <point x="638.7" y="4662.5"/>
+    </contour>
+  </outline>
+</glyph>

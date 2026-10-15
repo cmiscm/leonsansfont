@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lacute" format="2">
+  <advance width="4442"/>
+  <unicode hex="0139"/>
+  <outline>
+    <contour>
+      <point x="730.32" y="112.0" type="line"/>
+      <point x="730.32" y="168.0" type="line"/>
+      <point x="730.32" y="6048.0" type="line"/>
+      <point x="828.7" y="6048.0"/>
+      <point x="1025.46" y="6048.0"/>
+      <point x="1123.83" y="6048.0" type="qcurve"/>
+      <point x="1123.83" y="500.05" type="line"/>
+      <point x="4070.78" y="500.05" type="line"/>
+      <point x="4070.78" y="403.04"/>
+      <point x="4070.78" y="209.01"/>
+      <point x="4070.78" y="112.0" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="2151.42" y="6568.0" type="line"/>
+      <point x="2068.79" y="6622.32"/>
+      <point x="1903.54" y="6730.96"/>
+      <point x="1820.92" y="6785.28" type="qcurve"/>
+      <point x="2641.58" y="8000.15" type="line"/>
+      <point x="2724.2" y="7944.88"/>
+      <point x="2889.45" y="7836.24"/>
+      <point x="2972.08" y="7781.92" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

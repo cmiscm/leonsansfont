@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nacute" format="2">
+  <advance width="5827"/>
+  <unicode hex="0143"/>
+  <outline>
+    <contour>
+      <point x="1077.04" y="6048.0" type="qcurve"/>
+      <point x="1105.38" y="6007.79" type="line"/>
+      <point x="1845.08" y="4951.15" type="line"/>
+      <point x="2716.42" y="3709.68" type="line"/>
+      <point x="3619.2" y="2421.08" type="line"/>
+      <point x="4704.3" y="873.45" type="line"/>
+      <point x="4704.3" y="6048.0" type="line"/>
+      <point x="4802.41" y="6048.0"/>
+      <point x="4998.62" y="6048.0"/>
+      <point x="5096.72" y="6048.0" type="qcurve"/>
+      <point x="5096.72" y="120.0" type="line"/>
+      <point x="5010.04" y="120.0"/>
+      <point x="4836.68" y="120.0"/>
+      <point x="4750.0" y="120.0" type="qcurve"/>
+      <point x="4351.18" y="689.4" type="line"/>
+      <point x="3586.0" y="1780.17" type="line"/>
+      <point x="2293.72" y="3623.26" type="line"/>
+      <point x="1122.74" y="5294.55" type="line"/>
+      <point x="1122.74" y="112.0" type="line"/>
+      <point x="1024.64" y="112.0"/>
+      <point x="828.43" y="112.0"/>
+      <point x="730.32" y="112.0" type="qcurve"/>
+      <point x="730.32" y="6048.0" type="line"/>
+      <point x="817.0" y="6048.0"/>
+      <point x="990.36" y="6048.0"/>
+    </contour>
+    <contour>
+      <point x="2670.15" y="6568.0" type="line"/>
+      <point x="2587.75" y="6622.51"/>
+      <point x="2422.96" y="6731.52"/>
+      <point x="2340.56" y="6786.03" type="qcurve"/>
+      <point x="3156.89" y="8002.03" type="line"/>
+      <point x="3239.29" y="7946.57"/>
+      <point x="3404.09" y="7837.55"/>
+      <point x="3486.48" y="7783.04" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

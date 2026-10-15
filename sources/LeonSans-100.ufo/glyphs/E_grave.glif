@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Egrave" format="2">
+  <advance width="4632"/>
+  <unicode hex="00C8"/>
+  <outline>
+    <contour>
+      <point x="736" y="6048" type="line"/>
+      <point x="791" y="6048" type="line"/>
+      <point x="3960" y="6048" type="line"/>
+      <point x="3960" y="6012"/>
+      <point x="3960" y="5940"/>
+      <point x="3960" y="5904" type="qcurve"/>
+      <point x="880" y="5904" type="line"/>
+      <point x="880" y="3352" type="line"/>
+      <point x="3760" y="3352" type="line"/>
+      <point x="3760" y="3316"/>
+      <point x="3760" y="3244"/>
+      <point x="3760" y="3208" type="qcurve"/>
+      <point x="880" y="3208" type="line"/>
+      <point x="880" y="256" type="line"/>
+      <point x="3960" y="256" type="line"/>
+      <point x="3960" y="220"/>
+      <point x="3960" y="148"/>
+      <point x="3960" y="112" type="qcurve"/>
+      <point x="736" y="112" type="line"/>
+    </contour>
+    <contour>
+      <point x="1760" y="7728" type="qcurve"/>
+      <point x="1790" y="7682" type="line"/>
+      <point x="2432" y="6720" type="line"/>
+      <point x="2402" y="6700"/>
+      <point x="2342" y="6660"/>
+      <point x="2312" y="6640" type="qcurve"/>
+      <point x="1640" y="7648" type="line"/>
+      <point x="1670" y="7668"/>
+      <point x="1730" y="7708"/>
+    </contour>
+  </outline>
+</glyph>

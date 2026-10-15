@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Amacron" format="2">
+  <advance width="5767"/>
+  <unicode hex="0100"/>
+  <outline>
+    <contour>
+      <point x="4314.38" y="1915.16" type="line"/>
+      <point x="4263.15" y="1915.16" type="line"/>
+      <point x="1453.1" y="1915.16" type="line"/>
+      <point x="707.19" y="96.29" type="line"/>
+      <point x="615.24" y="133.43"/>
+      <point x="431.36" y="207.71"/>
+      <point x="339.41" y="244.84" type="qcurve"/>
+      <point x="2726.74" y="6048.0" type="line"/>
+      <point x="2805.24" y="6048.0"/>
+      <point x="2962.25" y="6048.0"/>
+      <point x="3040.75" y="6048.0" type="qcurve"/>
+      <point x="3380.13" y="5223.53" type="line"/>
+      <point x="3817.76" y="4158.96" type="line"/>
+      <point x="4511.84" y="2473.1" type="line"/>
+      <point x="4969.49" y="1359.49" type="line"/>
+      <point x="5428.07" y="244.84" type="line"/>
+      <point x="5336.13" y="207.71"/>
+      <point x="5152.24" y="133.43"/>
+      <point x="5060.3" y="96.29" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="1617.26" y="2305.98" type="line"/>
+      <point x="1664.63" y="2305.98" type="line"/>
+      <point x="4150.23" y="2305.98" type="line"/>
+      <point x="2883.74" y="5432.92" type="line"/>
+    </contour>
+    <contour>
+      <point x="1298.11" y="7166.82" type="qcurve"/>
+      <point x="1354.16" y="7166.82" type="line"/>
+      <point x="4469.38" y="7166.82" type="line"/>
+      <point x="4469.38" y="7069.12"/>
+      <point x="4469.38" y="6873.71"/>
+      <point x="4469.38" y="6776.0" type="qcurve"/>
+      <point x="1298.11" y="6776.0" type="line"/>
+      <point x="1298.11" y="6873.71"/>
+      <point x="1298.11" y="7069.12"/>
+    </contour>
+  </outline>
+</glyph>

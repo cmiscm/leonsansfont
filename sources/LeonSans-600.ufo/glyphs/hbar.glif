@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hbar" format="2">
+  <advance width="4886"/>
+  <unicode hex="0127"/>
+  <outline>
+    <contour>
+      <point x="907.07" y="112.0" type="line"/>
+      <point x="907.07" y="6048.0" type="line"/>
+      <point x="1506.75" y="6048.0" type="line"/>
+      <point x="1506.75" y="3512.32" type="line"/>
+      <point x="1531.19" y="3536.64"/>
+      <point x="1582.07" y="3583.84"/>
+      <point x="1607.95" y="3607.16" type="qcurve" smooth="yes"/>
+      <point x="1632.83" y="3630.92"/>
+      <point x="1686.03" y="3676.12"/>
+      <point x="1713.47" y="3697.88" type="qcurve" smooth="yes"/>
+      <point x="1740.35" y="3720.2"/>
+      <point x="1796.99" y="3761.84"/>
+      <point x="1826.31" y="3782.16" type="qcurve" smooth="yes"/>
+      <point x="1855.63" y="3802.48"/>
+      <point x="1916.83" y="3839.56"/>
+      <point x="1949.15" y="3856.0" type="qcurve" smooth="yes"/>
+      <point x="1981.47" y="3873.76"/>
+      <point x="2048.99" y="3905.08"/>
+      <point x="2084.31" y="3918.4" type="qcurve" smooth="yes"/>
+      <point x="2120.07" y="3932.72"/>
+      <point x="2195.15" y="3957.04"/>
+      <point x="2233.91" y="3966.92" type="qcurve" smooth="yes"/>
+      <point x="2273.67" y="3976.36"/>
+      <point x="2357.19" y="3992.12"/>
+      <point x="2401.95" y="3997.12" type="qcurve" smooth="yes"/>
+      <point x="2445.71" y="4002.56"/>
+      <point x="2539.23" y="4008.0"/>
+      <point x="2588.99" y="4008.0" type="qcurve" smooth="yes"/>
+      <point x="2625.99" y="4008.0"/>
+      <point x="2703.99" y="4006.0"/>
+      <point x="2784.99" y="4000.56"/>
+      <point x="2867.11" y="3993.12"/>
+      <point x="2909.67" y="3987.12" type="qcurve" smooth="yes"/>
+      <point x="2965.23" y="3979.68"/>
+      <point x="3078.91" y="3957.68"/>
+      <point x="3191.15" y="3928.24"/>
+      <point x="3246.27" y="3909.24" type="qcurve" smooth="yes"/>
+      <point x="3301.95" y="3890.8"/>
+      <point x="3410.19" y="3844.8"/>
+      <point x="3513.87" y="3790.68"/>
+      <point x="3563.99" y="3759.12" type="qcurve" smooth="yes"/>
+      <point x="3638.67" y="3711.56"/>
+      <point x="3774.47" y="3598.32"/>
+      <point x="3834.59" y="3532.64" type="qcurve" smooth="yes"/>
+      <point x="3895.15" y="3466.4"/>
+      <point x="3999.27" y="3317.92"/>
+      <point x="4042.27" y="3236.68" type="qcurve" smooth="yes"/>
+      <point x="4070.83" y="3183.0"/>
+      <point x="4120.83" y="3069.08"/>
+      <point x="4163.27" y="2951.28"/>
+      <point x="4180.27" y="2891.04" type="qcurve" smooth="yes"/>
+      <point x="4193.27" y="2845.36"/>
+      <point x="4214.71" y="2753.56"/>
+      <point x="4232.15" y="2661.32"/>
+      <point x="4246.59" y="2569.08"/>
+      <point x="4251.59" y="2522.96" type="qcurve" smooth="yes"/>
+      <point x="4257.03" y="2477.4"/>
+      <point x="4264.47" y="2387.16"/>
+      <point x="4268.91" y="2299.04"/>
+      <point x="4270.91" y="2213.92"/>
+      <point x="4270.91" y="2173.36" type="qcurve" smooth="yes"/>
+      <point x="4270.91" y="112.0" type="line"/>
+      <point x="3671.23" y="112.0" type="line"/>
+      <point x="3671.23" y="2201.84" type="line" smooth="yes"/>
+      <point x="3671.23" y="2238.72"/>
+      <point x="3668.79" y="2315.92"/>
+      <point x="3663.35" y="2397.24"/>
+      <point x="3658.91" y="2438.12" type="qcurve" smooth="yes"/>
+      <point x="3654.47" y="2480.0"/>
+      <point x="3641.59" y="2562.88"/>
+      <point x="3624.27" y="2645.76"/>
+      <point x="3612.83" y="2686.64" type="qcurve" smooth="yes"/>
+      <point x="3595.95" y="2748.08"/>
+      <point x="3551.75" y="2865.4"/>
+      <point x="3523.99" y="2919.84" type="qcurve" smooth="yes"/>
+      <point x="3496.11" y="2974.72"/>
+      <point x="3429.47" y="3075.16"/>
+      <point x="3390.15" y="3119.48" type="qcurve" smooth="yes"/>
+      <point x="3351.83" y="3163.92"/>
+      <point x="3264.19" y="3240.8"/>
+      <point x="3216.43" y="3272.68" type="qcurve" smooth="yes"/>
+      <point x="3168.11" y="3304.56"/>
+      <point x="3065.59" y="3354.88"/>
+      <point x="3012.71" y="3373.76" type="qcurve" smooth="yes"/>
+      <point x="2958.51" y="3393.2"/>
+      <point x="2848.99" y="3418.96"/>
+      <point x="2795.23" y="3426.96" type="qcurve" smooth="yes"/>
+      <point x="2759.91" y="3431.84"/>
+      <point x="2688.83" y="3438.28"/>
+      <point x="2620.75" y="3440.72"/>
+      <point x="2588.99" y="3440.72" type="qcurve" smooth="yes"/>
+      <point x="2557.23" y="3440.72"/>
+      <point x="2489.15" y="3438.28"/>
+      <point x="2418.51" y="3431.84"/>
+      <point x="2382.75" y="3426.96" type="qcurve" smooth="yes"/>
+      <point x="2328.55" y="3418.96"/>
+      <point x="2219.03" y="3393.2"/>
+      <point x="2165.71" y="3373.76" type="qcurve" smooth="yes"/>
+      <point x="2111.95" y="3354.88"/>
+      <point x="2009.43" y="3304.56"/>
+      <point x="1961.55" y="3272.68" type="qcurve" smooth="yes"/>
+      <point x="1913.79" y="3240.8"/>
+      <point x="1826.15" y="3163.92"/>
+      <point x="1787.39" y="3119.48" type="qcurve" smooth="yes"/>
+      <point x="1748.51" y="3075.16"/>
+      <point x="1681.87" y="2974.72"/>
+      <point x="1653.55" y="2919.84" type="qcurve" smooth="yes"/>
+      <point x="1626.23" y="2865.4"/>
+      <point x="1582.47" y="2748.08"/>
+      <point x="1565.15" y="2686.64" type="qcurve" smooth="yes"/>
+      <point x="1553.71" y="2645.76"/>
+      <point x="1536.39" y="2562.88"/>
+      <point x="1523.51" y="2480.0"/>
+      <point x="1519.07" y="2438.12" type="qcurve" smooth="yes"/>
+      <point x="1514.63" y="2397.24"/>
+      <point x="1509.19" y="2315.92"/>
+      <point x="1506.75" y="2238.72"/>
+      <point x="1506.75" y="2201.84" type="qcurve" smooth="yes"/>
+      <point x="1506.75" y="112.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="607.23" y="4120.68" type="line"/>
+      <point x="607.23" y="4588.44" type="line"/>
+      <point x="2286.33" y="4588.44" type="line"/>
+      <point x="2286.33" y="4120.68" type="line"/>
+    </contour>
+  </outline>
+</glyph>

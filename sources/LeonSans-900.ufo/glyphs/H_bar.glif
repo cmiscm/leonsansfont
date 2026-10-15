@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hbar" format="2">
+  <advance width="6602"/>
+  <unicode hex="0126"/>
+  <outline>
+    <contour>
+      <point x="2214.75" y="6048.0" type="qcurve"/>
+      <point x="2214.75" y="6001.0" type="line"/>
+      <point x="2214.75" y="3764.0" type="line"/>
+      <point x="4398.75" y="3764.0" type="line"/>
+      <point x="4398.75" y="6048.0" type="line"/>
+      <point x="4658.75" y="6048.0"/>
+      <point x="5178.75" y="6048.0"/>
+      <point x="5438.75" y="6048.0" type="qcurve"/>
+      <point x="5438.75" y="112.0" type="line"/>
+      <point x="5178.75" y="112.0"/>
+      <point x="4658.75" y="112.0"/>
+      <point x="4398.75" y="112.0" type="qcurve"/>
+      <point x="4398.75" y="2716.0" type="line"/>
+      <point x="2214.75" y="2716.0" type="line"/>
+      <point x="2214.75" y="112.0" type="line"/>
+      <point x="1951.75" y="112.0"/>
+      <point x="1425.75" y="112.0"/>
+      <point x="1162.75" y="112.0" type="qcurve"/>
+      <point x="1162.75" y="6048.0" type="line"/>
+      <point x="1425.75" y="6048.0"/>
+      <point x="1951.75" y="6048.0"/>
+    </contour>
+    <contour>
+      <point x="642.75" y="4251.36" type="line"/>
+      <point x="642.75" y="5062.56" type="line"/>
+      <point x="5958.75" y="5062.56" type="line"/>
+      <point x="5958.75" y="4251.36" type="line"/>
+    </contour>
+  </outline>
+</glyph>

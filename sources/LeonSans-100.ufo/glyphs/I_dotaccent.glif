@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idotaccent" format="2">
+  <advance width="1616"/>
+  <unicode hex="0130"/>
+  <outline>
+    <contour>
+      <point x="736" y="6048" type="line"/>
+      <point x="772" y="6048"/>
+      <point x="844" y="6048"/>
+      <point x="880" y="6048" type="qcurve"/>
+      <point x="880" y="112" type="line"/>
+      <point x="844" y="112"/>
+      <point x="772" y="112"/>
+      <point x="736" y="112" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="808" y="6568" type="qcurve" smooth="yes"/>
+      <point x="778" y="6568"/>
+      <point x="750" y="6580" type="qcurve"/>
+      <point x="731" y="6587"/>
+      <point x="699" y="6612"/>
+      <point x="676" y="6644"/>
+      <point x="661" y="6680"/>
+      <point x="655" y="6719"/>
+      <point x="660" y="6759"/>
+      <point x="668" y="6778" type="qcurve" smooth="yes"/>
+      <point x="673" y="6790"/>
+      <point x="687" y="6812"/>
+      <point x="695" y="6822" type="qcurve"/>
+      <point x="716" y="6844"/>
+      <point x="743" y="6857" type="qcurve" smooth="yes"/>
+      <point x="758" y="6864"/>
+      <point x="791" y="6872"/>
+      <point x="808" y="6872" type="qcurve" smooth="yes"/>
+      <point x="838" y="6872"/>
+      <point x="866" y="6860" type="qcurve"/>
+      <point x="885" y="6853"/>
+      <point x="917" y="6828"/>
+      <point x="940" y="6796"/>
+      <point x="955" y="6760"/>
+      <point x="961" y="6721"/>
+      <point x="956" y="6681"/>
+      <point x="948" y="6662" type="qcurve" smooth="yes"/>
+      <point x="943" y="6650"/>
+      <point x="929" y="6628"/>
+      <point x="921" y="6618" type="qcurve"/>
+      <point x="900" y="6596"/>
+      <point x="873" y="6583" type="qcurve" smooth="yes"/>
+      <point x="858" y="6576"/>
+      <point x="825" y="6568"/>
+    </contour>
+  </outline>
+</glyph>

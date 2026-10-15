@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arrowupdn" format="2">
+  <advance width="7548"/>
+  <unicode hex="2195"/>
+  <outline>
+    <contour>
+      <point x="3333.48" y="4761.44" type="line"/>
+      <point x="1917.98" y="3345.72" type="line"/>
+      <point x="1761.84" y="3502.62"/>
+      <point x="1449.02" y="3815.45"/>
+      <point x="1292.11" y="3971.59" type="qcurve"/>
+      <point x="3773.98" y="6453.45" type="line"/>
+      <point x="6255.62" y="3971.59" type="line"/>
+      <point x="6098.71" y="3815.45"/>
+      <point x="5785.89" y="3502.62"/>
+      <point x="5629.98" y="3345.72" type="qcurve"/>
+      <point x="4214.25" y="4761.44" type="line"/>
+      <point x="4214.25" y="1398.56" type="line"/>
+      <point x="5629.75" y="2814.28" type="line"/>
+      <point x="5785.89" y="2657.37"/>
+      <point x="6098.71" y="2344.55"/>
+      <point x="6255.62" y="2188.41" type="qcurve"/>
+      <point x="3773.75" y="-293.45" type="line"/>
+      <point x="1292.11" y="2188.42" type="line"/>
+      <point x="1449.02" y="2344.56"/>
+      <point x="1761.84" y="2657.38"/>
+      <point x="1917.75" y="2814.28" type="qcurve"/>
+      <point x="3333.48" y="1398.56" type="line"/>
+    </contour>
+  </outline>
+</glyph>

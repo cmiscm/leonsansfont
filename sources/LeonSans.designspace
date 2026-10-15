@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="100" maximum="900" default="100"/>
+  </axes>
+  <sources>
+    <source filename="LeonSans-100.ufo" name="weight-100" familyname="Leon Sans" stylename="Thin">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="LeonSans-300.ufo" name="weight-300" familyname="Leon Sans" stylename="Light">
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+      </location>
+    </source>
+    <source filename="LeonSans-400.ufo" name="weight-400" familyname="Leon Sans" stylename="Regular">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="LeonSans-500.ufo" name="weight-500" familyname="Leon Sans" stylename="Medium">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+      </location>
+    </source>
+    <source filename="LeonSans-600.ufo" name="weight-600" familyname="Leon Sans" stylename="SemiBold">
+      <location>
+        <dimension name="Weight" xvalue="600"/>
+      </location>
+    </source>
+    <source filename="LeonSans-700.ufo" name="weight-700" familyname="Leon Sans" stylename="Bold">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+      </location>
+    </source>
+    <source filename="LeonSans-800.ufo" name="weight-800" familyname="Leon Sans" stylename="ExtraBold">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+      </location>
+    </source>
+    <source filename="LeonSans-900.ufo" name="weight-900" familyname="Leon Sans" stylename="Black">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Thin" familyname="Leon Sans" stylename="Thin" postscriptfontname="LeonSans-Thin">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </instance>
+    <instance name="ExtraLight" familyname="Leon Sans" stylename="ExtraLight" postscriptfontname="LeonSans-ExtraLight">
+      <location>
+        <dimension name="Weight" xvalue="200"/>
+      </location>
+    </instance>
+    <instance name="Light" familyname="Leon Sans" stylename="Light" postscriptfontname="LeonSans-Light">
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+      </location>
+    </instance>
+    <instance name="Regular" familyname="Leon Sans" stylename="Regular" postscriptfontname="LeonSans-Regular">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </instance>
+    <instance name="Medium" familyname="Leon Sans" stylename="Medium" postscriptfontname="LeonSans-Medium">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+      </location>
+    </instance>
+    <instance name="SemiBold" familyname="Leon Sans" stylename="SemiBold" postscriptfontname="LeonSans-SemiBold">
+      <location>
+        <dimension name="Weight" xvalue="600"/>
+      </location>
+    </instance>
+    <instance name="Bold" familyname="Leon Sans" stylename="Bold" postscriptfontname="LeonSans-Bold">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+      </location>
+    </instance>
+    <instance name="ExtraBold" familyname="Leon Sans" stylename="ExtraBold" postscriptfontname="LeonSans-ExtraBold">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+      </location>
+    </instance>
+    <instance name="Black" familyname="Leon Sans" stylename="Black" postscriptfontname="LeonSans-Black">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+      </location>
+    </instance>
+  </instances>
+</designspace>

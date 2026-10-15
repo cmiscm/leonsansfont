@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2015" format="2">
+  <advance width="9270"/>
+  <unicode hex="2015"/>
+  <outline>
+    <contour>
+      <point x="540.0" y="2553.0" type="line"/>
+      <point x="540.0" y="2817.0"/>
+      <point x="540.0" y="3344.0"/>
+      <point x="540.0" y="3607.0" type="qcurve"/>
+      <point x="8730.0" y="3607.0" type="line"/>
+      <point x="8730.0" y="3344.0"/>
+      <point x="8730.0" y="2817.0"/>
+      <point x="8730.0" y="2553.0" type="qcurve"/>
+      <point x="595.0" y="2553.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

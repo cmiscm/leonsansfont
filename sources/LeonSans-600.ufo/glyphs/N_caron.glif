@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ncaron" format="2">
+  <advance width="5911"/>
+  <unicode hex="0147"/>
+  <outline>
+    <contour>
+      <point x="1233.96" y="6040.0" type="qcurve"/>
+      <point x="1260.27" y="6003.04" type="line"/>
+      <point x="1942.6" y="5036.61" type="line"/>
+      <point x="2745.41" y="3898.37" type="line"/>
+      <point x="3578.09" y="2718.69" type="line"/>
+      <point x="4578.8" y="1301.28" type="line"/>
+      <point x="4578.8" y="6048.0" type="line"/>
+      <point x="4730.39" y="6048.0"/>
+      <point x="5033.57" y="6048.0"/>
+      <point x="5185.16" y="6048.0" type="qcurve"/>
+      <point x="5185.16" y="116.16" type="line"/>
+      <point x="5058.05" y="116.16"/>
+      <point x="4803.83" y="116.16"/>
+      <point x="4676.72" y="116.16" type="qcurve"/>
+      <point x="4308.72" y="638.05" type="line"/>
+      <point x="3603.12" y="1638.41" type="line"/>
+      <point x="2412.57" y="3326.98" type="line"/>
+      <point x="1331.88" y="4858.72" type="line"/>
+      <point x="1331.88" y="112.0" type="line"/>
+      <point x="1180.29" y="112.0"/>
+      <point x="877.11" y="112.0"/>
+      <point x="725.52" y="112.0" type="qcurve"/>
+      <point x="725.52" y="6040.0" type="line"/>
+      <point x="852.63" y="6040.0"/>
+      <point x="1106.85" y="6040.0"/>
+    </contour>
+    <contour>
+      <point x="1785.59" y="8087.55" type="qcurve"/>
+      <point x="2955.34" y="7225.84" type="line"/>
+      <point x="4125.09" y="8087.55" type="line"/>
+      <point x="4213.16" y="7967.53"/>
+      <point x="4387.13" y="7725.0"/>
+      <point x="4475.2" y="7604.49" type="qcurve"/>
+      <point x="3081.43" y="6568.0" type="line"/>
+      <point x="3017.84" y="6568.0"/>
+      <point x="2892.84" y="6568.0"/>
+      <point x="2829.24" y="6568.0" type="qcurve"/>
+      <point x="1435.48" y="7604.49" type="line"/>
+      <point x="1523.55" y="7725.0"/>
+      <point x="1697.51" y="7967.53"/>
+    </contour>
+  </outline>
+</glyph>
