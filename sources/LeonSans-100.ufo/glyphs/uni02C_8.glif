@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni02C8" format="2">
-  <advance width="1672"/>
-  <unicode hex="02C8"/>
+  <advance width="1672" />
+  <unicode hex="02C8" />
   <outline>
     <contour>
-      <point x="760" y="6112" type="qcurve"/>
-      <point x="798" y="6112"/>
-      <point x="874" y="6112"/>
-      <point x="912" y="6112" type="qcurve"/>
-      <point x="912" y="5776"/>
-      <point x="912" y="5104"/>
-      <point x="912" y="4768" type="qcurve"/>
-      <point x="874" y="4768"/>
-      <point x="798" y="4768"/>
-      <point x="760" y="4768" type="qcurve"/>
-      <point x="760" y="5104"/>
-      <point x="760" y="5776"/>
+      <point x="760" y="6112" type="qcurve" />
+      <point x="798" y="6112" />
+      <point x="874" y="6112" />
+      <point x="912" y="6112" type="qcurve" />
+      <point x="912" y="5776" />
+      <point x="912" y="5104" />
+      <point x="912" y="4768" type="qcurve" />
+      <point x="874" y="4768" />
+      <point x="798" y="4768" />
+      <point x="760" y="4768" type="qcurve" />
+      <point x="760" y="5104" />
+      <point x="760" y="5776" />
     </contour>
   </outline>
 </glyph>

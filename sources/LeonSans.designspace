@@ -1,13 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="5.0">
   <axes>
-    <axis tag="wght" name="Weight" minimum="100" maximum="900" default="100"/>
+    <axis tag="wght" name="Weight" minimum="100" maximum="900" default="400"/>
   </axes>
   <sources>
     <source filename="LeonSans-100.ufo" name="weight-100" familyname="Leon Sans" stylename="Thin">
-      <lib copy="1"/>
-      <features copy="1"/>
-      <info copy="1"/>
       <location>
         <dimension name="Weight" xvalue="100"/>
       </location>
@@ -18,6 +15,9 @@
       </location>
     </source>
     <source filename="LeonSans-400.ufo" name="weight-400" familyname="Leon Sans" stylename="Regular">
+      <lib copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
       <location>
         <dimension name="Weight" xvalue="400"/>
       </location>

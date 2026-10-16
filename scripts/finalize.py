@@ -9,7 +9,7 @@ ROOT=Path(__file__).resolve().parents[1];OUT=ROOT/'fonts/variable';OUT.mkdir(par
 f=TTFont(sys.argv[1])
 from fontTools.otlLib.builder import buildStatTable
 names=['Thin','ExtraLight','Light','Regular','Medium','SemiBold','Bold','ExtraBold','Black']
-buildStatTable(f,[{'tag':'wght','name':'Weight','values':[dict(value=100+i*100,name=n,**({'flags':2} if i==3 else {})) for i,n in enumerate(names)]}])
+buildStatTable(f,[{'tag':'wght','name':'Weight','values':[dict(value=100+i*100,name=n,**({'flags':2,'linkedValue':700} if i==3 else {})) for i,n in enumerate(names)]}])
 # Resolve IUP before rounding the default outline: coincident rounded points
 # can otherwise infer different deltas in intermediate weights.
 for glyph, variations in f['gvar'].variations.items():
@@ -21,14 +21,10 @@ for glyph, variations in f['gvar'].variations.items():
  pts=list(coords)[:-4];tol=0 if len(set(pts))<len(pts) else 0.5
  for variation in variations:
   variation.roundDeltas();variation.optimize(coords,controls.endPts,tolerance=tol,isComposite=f['glyf'][glyph].isComposite())
-thinID=f['name'].addName('Thin')
-for i in f['fvar'].instances:
- if i.subfamilyNameID==2:i.subfamilyNameID=thinID
-for a in f['STAT'].table.AxisValueArray.AxisValue:
- if a.ValueNameID==2:a.ValueNameID=thinID
-os=f['OS/2'];os.version=max(4,os.version);os.fsType=0;os.fsSelection=(os.fsSelection|64|128)&~(1|32);os.recalcCodePageRanges(f);os.recalcUnicodeRanges(f);os.recalcAvgCharWidth(f)
+os=f['OS/2'];os.version=max(4,os.version);os.fsType=0;os.fsSelection=(os.fsSelection|64|128|256)&~(1|32);os.recalcCodePageRanges(f);os.recalcUnicodeRanges(f);nz=[w for w,_ in f['hmtx'].metrics.values() if w>0];os.xAvgCharWidth=sum(nz)//len(nz)
 copyright='Copyright 2019 The Leon Sans Project Authors (https://github.com/cmiscm/leonsansfont)'
-updates={0:copyright,1:'Leon Sans Thin',2:'Regular',3:'2.000;NONE;LeonSans-Thin',13:PLACEHOLDER_LICENSING_TEXT['OFL.txt'],14:'https://openfontlicense.org'}
+updates={0:copyright,1:'Leon Sans',2:'Regular',3:'2.000;NONE;LeonSans-Regular',4:'Leon Sans Regular',6:'LeonSans-Regular',13:PLACEHOLDER_LICENSING_TEXT['OFL.txt'],14:'https://openfontlicense.org'}
+f['name'].removeNames(nameID=16);f['name'].removeNames(nameID=17)
 for key,val in updates.items():
  for n in list(f['name'].names):
   if n.nameID==key:f['name'].setName(val,key,n.platformID,n.platEncID,n.langID)
