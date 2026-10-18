@@ -1,29 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="k" format="2">
-  <advance width="3856"/>
-  <unicode hex="006B"/>
+  <advance width="3896" />
+  <unicode hex="006B" />
   <outline>
     <contour>
-      <point x="652.76" y="134.69" type="qcurve"/>
-      <point x="652.76" y="189.8" type="line"/>
-      <point x="652.76" y="6048.0" type="line"/>
-      <point x="728.28" y="6048.0"/>
-      <point x="879.3" y="6048.0"/>
-      <point x="954.81" y="6048.0" type="qcurve"/>
-      <point x="954.81" y="2408.28" type="line"/>
-      <point x="3309.62" y="3980.08" type="line"/>
-      <point x="3351.85" y="3917.09"/>
-      <point x="3436.3" y="3791.1"/>
-      <point x="3478.52" y="3728.11" type="qcurve"/>
-      <point x="1038.06" y="2120.74" type="line"/>
-      <point x="3542.56" y="356.02" type="line"/>
-      <point x="3499.1" y="295.01"/>
-      <point x="3412.18" y="173.0"/>
-      <point x="3368.72" y="112.0" type="qcurve"/>
-      <point x="954.81" y="1833.21" type="line"/>
-      <point x="954.81" y="134.69" type="line"/>
-      <point x="879.3" y="134.69"/>
-      <point x="728.28" y="134.69"/>
+      <point x="652.76" y="112" type="qcurve" />
+      <point x="652.76" y="189.8" type="line" />
+      <point x="652.76" y="6048" type="line" />
+      <point x="728.28" y="6048" />
+      <point x="879.3" y="6048" />
+      <point x="954.81" y="6048" type="qcurve" />
+      <point x="954.81" y="2446.22" type="line" />
+      <point x="3335.62" y="4001.6" type="line" />
+      <point x="3363.27" y="3959.28" />
+      <point x="3473.87" y="3789.98" />
+      <point x="3501.53" y="3747.65" type="qcurve" />
+      <point x="1019.56" y="2126.18" type="line" />
+      <point x="3596.44" y="345.39" type="line" />
+      <point x="3568.05" y="304.31" />
+      <point x="3454.5" y="139.99" />
+      <point x="3426.11" y="98.91" type="qcurve" />
+      <point x="954.81" y="1806.74" type="line" />
+      <point x="954.81" y="112" type="line" />
+      <point x="879.3" y="112" />
+      <point x="728.28" y="112" />
     </contour>
   </outline>
 </glyph>
