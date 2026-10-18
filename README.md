@@ -2,7 +2,7 @@
 
 Leon Sans is a geometric variable sans-serif typeface designed by Jongmin Kim. Originally created in 2019 as a code-based drawing system to celebrate the birth of his son Leon, **Version 2.0** is a standalone OpenType variable TrueType family (`LeonSans[wght].ttf`) spanning a continuous `wght` axis from **100 (Thin)** to **900 (Black)**.
 
-[![Leon Sans 2.0 Specimen](documentation/specimen.png)](https://leon-kim.com/preview/)
+[![Leon Sans 2.0 Specimen](documentation/specimen.png?v=2)](https://leon-kim.com/preview/)
 
 **[Interactive Type Specimen & 470-Glyph Preview → https://leon-kim.com/preview/](https://leon-kim.com/preview/)**
 
