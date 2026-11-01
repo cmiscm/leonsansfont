@@ -3,19 +3,19 @@
   <unicode hex="030C"/>
   <outline>
     <contour>
-      <point x="-1168.92" y="6399.96" type="qcurve"/>
-      <point x="0.0" y="5527.2" type="line"/>
-      <point x="1168.92" y="6399.96" type="line"/>
-      <point x="1275.28" y="6251.84"/>
-      <point x="1485.6" y="5956.48"/>
-      <point x="1591.24" y="5808.36" type="qcurve"/>
-      <point x="146.52" y="4720.0" type="line"/>
-      <point x="73.2" y="4720.0"/>
-      <point x="-73.2" y="4720.0"/>
-      <point x="-146.52" y="4720.0" type="qcurve"/>
-      <point x="-1590.52" y="5808.36" type="line"/>
-      <point x="-1485.6" y="5956.48"/>
-      <point x="-1275.28" y="6251.84"/>
+      <point x="-1134.2" y="6015.64" type="qcurve"/>
+      <point x="0" y="5168.82" type="line"/>
+      <point x="1134.2" y="6015.64" type="line"/>
+      <point x="1193.72" y="5932.52"/>
+      <point x="1312.23" y="5765.87"/>
+      <point x="1370.92" y="5682.62" type="qcurve"/>
+      <point x="92.96" y="4720" type="line"/>
+      <point x="46.97" y="4720"/>
+      <point x="-46.14" y="4720"/>
+      <point x="-92.96" y="4720" type="qcurve"/>
+      <point x="-1370.92" y="5682.62" type="line"/>
+      <point x="-1311.41" y="5765.87"/>
+      <point x="-1192.9" y="5932.52"/>
     </contour>
   </outline>
 </glyph>
