@@ -11,4 +11,5 @@ with tempfile.TemporaryDirectory(prefix='leonsans-build-') as tmp:
  subprocess.run([sys.executable,'-B','-m','fontmake','-m',str(ROOT/'sources/LeonSans.designspace'),'-o','variable','--output-path',str(raw),'--no-production-names','--keep-overlaps','--keep-direction'],check=True,cwd=ROOT,env=env)
  subprocess.run([sys.executable,'-B',str(ROOT/'scripts/finalize.py'),str(raw)],check=True,cwd=ROOT,env=env)
 
+subprocess.run([sys.executable,'-B',str(ROOT/'scripts/sync_preview.py')],check=True,cwd=ROOT,env=env)
 subprocess.run([sys.executable,'-B',str(ROOT/'scripts/prepare_metadata.py')],check=True,cwd=ROOT,env=env)

@@ -4,33 +4,27 @@
   <unicode hex="1EF2"/>
   <outline>
     <contour>
-      <point x="2899.21" y="2857.27" type="line"/>
-      <point x="2899.21" y="2802.23" type="line"/>
-      <point x="2899.21" y="112.0" type="line"/>
-      <point x="2801.19" y="112.0"/>
-      <point x="2605.16" y="112.0"/>
-      <point x="2507.14" y="112.0" type="qcurve"/>
-      <point x="2507.14" y="2857.27" type="line"/>
-      <point x="339.41" y="5868.46" type="line"/>
-      <point x="419.81" y="5924.95"/>
-      <point x="580.59" y="6037.92"/>
-      <point x="660.99" y="6094.41" type="qcurve"/>
-      <point x="2703.18" y="3222.76" type="line"/>
-      <point x="4745.37" y="6094.41" type="line"/>
-      <point x="4825.76" y="6037.92"/>
-      <point x="4986.55" y="5924.95"/>
-      <point x="5066.94" y="5868.46" type="qcurve"/>
+      <point x="2900" y="2836" type="line"/>
+      <point x="2900" y="2780" type="line"/>
+      <point x="2900" y="112" type="line"/>
+      <point x="2704" y="112"/>
+      <point x="2508" y="112" type="qcurve"/>
+      <point x="2508" y="2836" type="line"/>
+      <point x="340" y="5824" type="line"/>
+      <point x="420" y="5880"/>
+      <point x="580" y="5992"/>
+      <point x="660" y="6048" type="qcurve"/>
+      <point x="2704" y="3200" type="line"/>
+      <point x="4744" y="6048" type="line"/>
+      <point x="4828" y="5992"/>
+      <point x="4988" y="5880"/>
+      <point x="5068" y="5824" type="qcurve"/>
     </contour>
     <contour>
-      <point x="2946.02" y="6614.41" type="qcurve"/>
-      <point x="2926.06" y="6644.21" type="line"/>
-      <point x="2131.04" y="7829.8" type="line"/>
-      <point x="2213.36" y="7884.37"/>
-      <point x="2378.01" y="7993.5"/>
-      <point x="2460.34" y="8049.03" type="qcurve"/>
-      <point x="3275.32" y="6832.67" type="line"/>
-      <point x="3192.99" y="6778.1"/>
-      <point x="3028.34" y="6668.97"/>
+      <point x="2772" y="6386" type="line"/>
+      <point x="2214" y="7318" type="line"/>
+      <point x="2503" y="7492" type="line"/>
+      <point x="3060" y="6559" type="line"/>
     </contour>
   </outline>
 </glyph>

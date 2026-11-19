@@ -1,27 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="imacron" format="2">
-  <advance width="1768"/>
+  <advance width="2355"/>
   <unicode hex="012B"/>
   <outline>
     <contour>
-      <point x="633.86" y="3904.0" type="line"/>
-      <point x="758.26" y="3904.0"/>
-      <point x="1007.06" y="3904.0"/>
-      <point x="1131.46" y="3904.0" type="qcurve"/>
-      <point x="1131.46" y="112.0" type="line"/>
-      <point x="1007.06" y="112.0"/>
-      <point x="758.26" y="112.0"/>
-      <point x="633.86" y="112.0" type="qcurve"/>
+      <point x="932" y="3904" type="line"/>
+      <point x="1428" y="3904" type="line"/>
+      <point x="1428" y="112" type="line"/>
+      <point x="932" y="112" type="line"/>
     </contour>
     <contour>
-      <point x="132.27" y="4424.0" type="line"/>
-      <point x="132.27" y="4548.1"/>
-      <point x="132.27" y="4795.6"/>
-      <point x="132.27" y="4919.0" type="qcurve"/>
-      <point x="1633.05" y="4919.0" type="line"/>
-      <point x="1633.05" y="4795.6"/>
-      <point x="1633.05" y="4548.1"/>
-      <point x="1633.05" y="4424.0" type="qcurve"/>
+      <point x="176" y="4872" type="line"/>
+      <point x="2184" y="4872" type="line"/>
+      <point x="2184" y="4476" type="line"/>
+      <point x="176" y="4476" type="line"/>
     </contour>
   </outline>
 </glyph>

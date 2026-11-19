@@ -1,11 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="caron.side" format="2">
+  <advance width="839"/>
   <outline>
     <contour>
-      <point x="0.0" y="1047.92" type="line"/>
-      <point x="342.72" y="1047.92" type="line"/>
-      <point x="267.32" y="482.04" type="line"/>
-      <point x="-68.54" y="0.0" type="line"/>
+      <point x="60" y="4674" type="line"/>
+      <point x="246" y="4847"/>
+      <point x="353" y="5081" type="qcurve" smooth="yes"/>
+      <point x="455" y="5314"/>
+      <point x="455" y="5564" type="qcurve" smooth="yes"/>
+      <point x="455" y="5670"/>
+      <point x="433" y="5780" type="qcurve"/>
+      <point x="833" y="5848" type="line"/>
+      <point x="855" y="5704"/>
+      <point x="855" y="5564" type="qcurve" smooth="yes"/>
+      <point x="855" y="5233"/>
+      <point x="722" y="4932" type="qcurve" smooth="yes"/>
+      <point x="584" y="4627"/>
+      <point x="335" y="4398" type="qcurve"/>
     </contour>
   </outline>
 </glyph>

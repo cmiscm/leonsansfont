@@ -4,3 +4,8 @@ __pycache__/
 *.pyc
 Preview.html
 ofl/
+
+/tmp/
+/output/
+/sources/build.ninja
+/sources/.ninja_log

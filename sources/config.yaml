@@ -1,7 +1,11 @@
-sources:
-  - LeonSans.designspace
+# Explicit recipe: compiler options and finalizer match scripts/build.py.
+# SOURCE_DATE_EPOCH=1791676800 gftools builder sources/config.yaml
 familyName: Leon Sans
-buildOTF: false
-buildTTF: false
-buildVariable: true
-cleanUp: true
+recipe:
+  ../fonts/variable/LeonSans[wght].ttf:
+    - source: LeonSans.designspace
+    - operation: buildVariable
+      args: --no-production-names --keep-overlaps --keep-direction
+    - operation: exec
+      exe: python
+      args: ../scripts/finalize.py "$in" "$out"

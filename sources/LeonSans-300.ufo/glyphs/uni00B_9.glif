@@ -4,20 +4,20 @@
   <unicode hex="00B9"/>
   <outline>
     <contour>
-      <point x="908.55" y="3014.0" type="qcurve"/>
-      <point x="908.55" y="3043.06" type="line"/>
-      <point x="908.55" y="6023.07" type="line"/>
-      <point x="329.22" y="5612.8" type="line"/>
-      <point x="290.23" y="5667.02"/>
-      <point x="212.24" y="5775.46"/>
-      <point x="173.25" y="5829.68" type="qcurve"/>
-      <point x="972.82" y="6397.5" type="line"/>
-      <point x="1023.83" y="6397.5"/>
-      <point x="1125.86" y="6397.5"/>
-      <point x="1176.88" y="6397.5" type="qcurve"/>
-      <point x="1176.88" y="3014.0" type="line"/>
-      <point x="1109.79" y="3014.0"/>
-      <point x="975.63" y="3014.0"/>
+      <point x="908" y="3014" type="qcurve"/>
+      <point x="908" y="3043" type="line"/>
+      <point x="908" y="6023" type="line"/>
+      <point x="329" y="5613" type="line"/>
+      <point x="290" y="5667"/>
+      <point x="212" y="5776"/>
+      <point x="173" y="5830" type="qcurve"/>
+      <point x="973" y="6398" type="line"/>
+      <point x="1024" y="6398"/>
+      <point x="1126" y="6398"/>
+      <point x="1177" y="6398" type="qcurve"/>
+      <point x="1177" y="3014" type="line"/>
+      <point x="1110" y="3014"/>
+      <point x="976" y="3014"/>
     </contour>
   </outline>
 </glyph>

@@ -1,29 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dagger" format="2">
-  <advance width="2602"/>
+  <advance width="2848"/>
   <unicode hex="2020"/>
   <outline>
     <contour>
-      <point x="1373" y="112.0" type="line"/>
-      <point x="1337" y="112.0"/>
-      <point x="1265" y="112.0"/>
-      <point x="1229" y="112.0" type="qcurve"/>
-      <point x="1229" y="4088.0" type="line"/>
-      <point x="237" y="4088.0" type="line"/>
-      <point x="237" y="4124.0"/>
-      <point x="237" y="4196.0"/>
-      <point x="237" y="4232.0" type="qcurve"/>
-      <point x="1229" y="4232.0" type="line"/>
-      <point x="1229" y="6048.0" type="line"/>
-      <point x="1265" y="6048.0"/>
-      <point x="1337" y="6048.0"/>
-      <point x="1373" y="6048.0" type="qcurve"/>
-      <point x="1373" y="4232.0" type="line"/>
-      <point x="2365" y="4232.0" type="line"/>
-      <point x="2365" y="4196.0"/>
-      <point x="2365" y="4124.0"/>
-      <point x="2365" y="4088.0" type="qcurve"/>
-      <point x="1373" y="4088.0" type="line"/>
+      <point x="1352" y="112" type="line"/>
+      <point x="1352" y="4088" type="line"/>
+      <point x="360" y="4088" type="line"/>
+      <point x="360" y="4232" type="line"/>
+      <point x="1352" y="4232" type="line"/>
+      <point x="1352" y="6048" type="line"/>
+      <point x="1496" y="6048" type="line"/>
+      <point x="1496" y="4232" type="line"/>
+      <point x="2488" y="4232" type="line"/>
+      <point x="2488" y="4088" type="line"/>
+      <point x="1496" y="4088" type="line"/>
+      <point x="1496" y="112" type="line"/>
     </contour>
   </outline>
 </glyph>

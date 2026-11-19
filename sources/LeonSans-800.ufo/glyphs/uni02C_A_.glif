@@ -1,17 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni02CA" format="2">
-  <advance width="3632"/>
+  <advance width="2418"/>
   <unicode hex="02CA"/>
   <outline>
     <contour>
-      <point x="1642.4" y="4720.0" type="line"/>
-      <point x="1458.57" y="4842.22"/>
-      <point x="1092.37" y="5086.43"/>
-      <point x="908.77" y="5209.42" type="qcurve"/>
-      <point x="1989.96" y="6831.05" type="line"/>
-      <point x="2173.79" y="6708.06"/>
-      <point x="2539.99" y="6463.85"/>
-      <point x="2723.59" y="6341.63" type="qcurve"/>
+      <point x="724" y="4931" type="line"/>
+      <point x="1332" y="5934" type="line"/>
+      <point x="1840" y="5626" type="line"/>
+      <point x="1232" y="4624" type="line"/>
     </contour>
   </outline>
 </glyph>

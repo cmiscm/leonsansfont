@@ -1,0 +1,12 @@
+# Direct dependencies. requirements.txt is the tested, pinned compiler environment.
+# Resolve updates in an isolated environment and revalidate binary reproducibility.
+fontmake==3.12.2
+fonttools==4.66.1
+skia-pathops==0.9.2
+brotli==1.2.1
+gfmetadata==0.2.5
+protobuf==7.36.2
+uharfbuzz==0.56.3
+opentype-sanitizer==9.2.0
+# For the optional gftools config entry point use requirements-builder.txt.
+# Fontspector is a separate Rust executable, not a Python dependency.

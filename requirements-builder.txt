@@ -1,0 +1,9 @@
+-r requirements.txt
+gftools==0.10.8
+ninja==1.13.2
+strictyaml==1.7.3
+networkx==3.7
+python-dateutil==4.0.0
+python-bidi==0.6.12
+absl-py==2.5.1
+Unidecode==1.4.0

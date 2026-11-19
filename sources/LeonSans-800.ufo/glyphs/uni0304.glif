@@ -3,14 +3,10 @@
   <unicode hex="0304"/>
   <outline>
     <contour>
-      <point x="-1632.6" y="4720" type="line"/>
-      <point x="-1632.6" y="4839.14"/>
-      <point x="-1632.6" y="5076.86"/>
-      <point x="-1632.6" y="5195.44" type="qcurve"/>
-      <point x="1632.6" y="5195.44" type="line"/>
-      <point x="1632.6" y="5076.86"/>
-      <point x="1632.6" y="4839.14"/>
-      <point x="1632.6" y="4720" type="qcurve"/>
+      <point x="-1288" y="5112" type="line"/>
+      <point x="1288" y="5112" type="line"/>
+      <point x="1288" y="4464" type="line"/>
+      <point x="-1288" y="4464" type="line"/>
     </contour>
   </outline>
 </glyph>

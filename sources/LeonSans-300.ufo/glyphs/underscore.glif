@@ -4,15 +4,15 @@
   <unicode hex="005F"/>
   <outline>
     <contour>
-      <point x="88.72" y="-362.05" type="qcurve"/>
-      <point x="144.72" y="-362.05" type="line"/>
-      <point x="4040.72" y="-362.05" type="line"/>
-      <point x="4040.72" y="-437.54"/>
-      <point x="4040.72" y="-588.51"/>
-      <point x="4040.72" y="-664.0" type="qcurve"/>
-      <point x="88.72" y="-664.0" type="line"/>
-      <point x="88.72" y="-588.51"/>
-      <point x="88.72" y="-437.54"/>
+      <point x="88" y="-360" type="qcurve"/>
+      <point x="144" y="-360" type="line"/>
+      <point x="4040" y="-360" type="line"/>
+      <point x="4040" y="-436"/>
+      <point x="4040" y="-588"/>
+      <point x="4040" y="-664" type="qcurve"/>
+      <point x="88" y="-664" type="line"/>
+      <point x="88" y="-588"/>
+      <point x="88" y="-436"/>
     </contour>
   </outline>
 </glyph>

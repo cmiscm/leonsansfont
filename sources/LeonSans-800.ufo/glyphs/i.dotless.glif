@@ -1,16 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="i.dotless" format="2">
-  <advance width="2090"/>
+  <advance width="2026"/>
   <outline>
     <contour>
-      <point x="604.0" y="3904.0" type="line"/>
-      <point x="823.52" y="3904.0"/>
-      <point x="1262.56" y="3904.0"/>
-      <point x="1482.08" y="3904.0" type="qcurve"/>
-      <point x="1482.08" y="112.0" type="line"/>
-      <point x="1262.56" y="112.0"/>
-      <point x="823.52" y="112.0"/>
-      <point x="604.0" y="112.0" type="qcurve"/>
+      <point x="572" y="3904" type="line"/>
+      <point x="1452" y="3904" type="line"/>
+      <point x="1452" y="112" type="line"/>
+      <point x="572" y="112" type="line"/>
     </contour>
   </outline>
 </glyph>

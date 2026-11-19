@@ -1,27 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="igrave" format="2">
-  <advance width="1855"/>
+  <advance width="1727"/>
   <unicode hex="00EC"/>
   <outline>
     <contour>
-      <point x="628.28" y="3904.0" type="line"/>
-      <point x="780.2" y="3904.0"/>
-      <point x="1084.04" y="3904.0"/>
-      <point x="1235.96" y="3904.0" type="qcurve"/>
-      <point x="1235.96" y="112.0" type="line"/>
-      <point x="1084.04" y="112.0"/>
-      <point x="780.2" y="112.0"/>
-      <point x="628.28" y="112.0" type="qcurve"/>
+      <point x="560" y="3904" type="line"/>
+      <point x="1168" y="3904" type="line"/>
+      <point x="1168" y="112" type="line"/>
+      <point x="560" y="112" type="line"/>
     </contour>
     <contour>
-      <point x="47.0" y="6120.0" type="line"/>
-      <point x="168.44" y="6202.08"/>
-      <point x="411.32" y="6366.24"/>
-      <point x="532.76" y="6448.32" type="qcurve"/>
-      <point x="1185.24" y="5467.84" type="line"/>
-      <point x="1062.68" y="5386.88"/>
-      <point x="817.56" y="5224.96"/>
-      <point x="695.0" y="5144.0" type="qcurve"/>
+      <point x="890" y="4453" type="line"/>
+      <point x="308" y="5420" type="line"/>
+      <point x="698" y="5656" type="line"/>
+      <point x="1280" y="4688" type="line"/>
     </contour>
   </outline>
 </glyph>

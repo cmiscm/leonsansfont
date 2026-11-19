@@ -1,34 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Delta" format="2">
   <advance width="5680"/>
+  <unicode hex="0394"/>
   <unicode hex="2206"/>
   <outline>
     <contour>
-      <point x="3534.4" y="112.0" type="line"/>
-      <point x="2840.0" y="112.0" type="line"/>
-      <point x="2145.6" y="112.0" type="line"/>
-      <point x="1550.4" y="112.0" type="line"/>
-      <point x="1153.6" y="112.0"/>
-      <point x="756.8" y="112.0"/>
-      <point x="360.0" y="112.0" type="qcurve"/>
-      <point x="2768.0" y="6048.0" type="line"/>
-      <point x="2804.0" y="6048.0"/>
-      <point x="2876.0" y="6048.0"/>
-      <point x="2912.0" y="6048.0" type="qcurve"/>
-      <point x="3252.0" y="5211.0" type="line"/>
-      <point x="3694.0" y="4131.0" type="line"/>
-      <point x="4397.0" y="2422.0" type="line"/>
-      <point x="4859.0" y="1292.0" type="line"/>
-      <point x="5320.0" y="112.0" type="line"/>
-      <point x="4923.2" y="112.0"/>
-      <point x="4526.4" y="112.0"/>
-      <point x="4129.6" y="112.0" type="qcurve"/>
+      <point x="360" y="112" type="line"/>
+      <point x="2765" y="6048" type="line"/>
+      <point x="2915" y="6048" type="line"/>
+      <point x="5320" y="112" type="line"/>
     </contour>
     <contour>
-      <point x="565.54" y="256.0" type="line"/>
-      <point x="2840.0" y="256.0" type="line"/>
-      <point x="5114.46" y="256.0" type="line"/>
-      <point x="2840.0" y="5888.0" type="line"/>
+      <point x="2840" y="5849" type="line"/>
+      <point x="574" y="256" type="line"/>
+      <point x="5106" y="256" type="line"/>
     </contour>
   </outline>
 </glyph>

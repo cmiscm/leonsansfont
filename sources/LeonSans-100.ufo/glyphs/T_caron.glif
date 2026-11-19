@@ -4,35 +4,29 @@
   <unicode hex="0164"/>
   <outline>
     <contour>
-      <point x="4260.0" y="6048" type="line"/>
-      <point x="4260.0" y="6012"/>
-      <point x="4260.0" y="5940"/>
-      <point x="4260.0" y="5904" type="qcurve"/>
-      <point x="2380.0" y="5904" type="line"/>
-      <point x="2380.0" y="112" type="line"/>
-      <point x="2344.0" y="112"/>
-      <point x="2272.0" y="112"/>
-      <point x="2236.0" y="112" type="qcurve"/>
-      <point x="2236.0" y="5904" type="line"/>
-      <point x="356.0" y="5904" type="line"/>
-      <point x="356.0" y="5940"/>
-      <point x="356.0" y="6012"/>
-      <point x="356.0" y="6048" type="qcurve"/>
+      <point x="4260" y="6048" type="line"/>
+      <point x="4260" y="6012"/>
+      <point x="4260" y="5940"/>
+      <point x="4260" y="5904" type="qcurve"/>
+      <point x="2380" y="5904" type="line"/>
+      <point x="2380" y="112" type="line"/>
+      <point x="2344" y="112"/>
+      <point x="2272" y="112"/>
+      <point x="2236" y="112" type="qcurve"/>
+      <point x="2236" y="5904" type="line"/>
+      <point x="356" y="5904" type="line"/>
+      <point x="356" y="5940"/>
+      <point x="356" y="6012"/>
+      <point x="356" y="6048" type="qcurve"/>
     </contour>
     <contour>
-      <point x="1204.0" y="7536" type="qcurve"/>
-      <point x="2308.0" y="6712" type="line"/>
-      <point x="3412.0" y="7536" type="line"/>
-      <point x="3432.0" y="7508"/>
-      <point x="3472.0" y="7452"/>
-      <point x="3492.0" y="7424" type="qcurve"/>
-      <point x="2356.0" y="6568" type="line"/>
-      <point x="2332.0" y="6568"/>
-      <point x="2284.0" y="6568"/>
-      <point x="2260.0" y="6568" type="qcurve"/>
-      <point x="1124.0" y="7424" type="line"/>
-      <point x="1144.0" y="7452"/>
-      <point x="1184.0" y="7508"/>
+      <point x="1168" y="7020" type="line"/>
+      <point x="1244" y="7132" type="line"/>
+      <point x="2308" y="6420" type="line"/>
+      <point x="3372" y="7132" type="line"/>
+      <point x="3448" y="7020" type="line"/>
+      <point x="2388" y="6292" type="line"/>
+      <point x="2228" y="6292" type="line"/>
     </contour>
   </outline>
 </glyph>

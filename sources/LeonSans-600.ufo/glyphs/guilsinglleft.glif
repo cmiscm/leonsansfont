@@ -4,17 +4,17 @@
   <unicode hex="2039"/>
   <outline>
     <contour>
-      <point x="1685.0" y="4652.12" type="line"/>
-      <point x="1789.32" y="4539.68"/>
-      <point x="1997.08" y="4313.68"/>
-      <point x="2100.84" y="4201.8" type="qcurve"/>
-      <point x="1288.16" y="3080.0" type="line"/>
-      <point x="2100.84" y="1958.2" type="line"/>
-      <point x="1997.08" y="1846.32"/>
-      <point x="1789.32" y="1620.32"/>
-      <point x="1685.0" y="1507.88" type="qcurve"/>
-      <point x="540.0" y="3080.0" type="line"/>
-      <point x="1659.88" y="4617.0" type="line"/>
+      <point x="1684" y="4652" type="line"/>
+      <point x="1788" y="4540"/>
+      <point x="1996" y="4316"/>
+      <point x="2100" y="4204" type="qcurve"/>
+      <point x="1288" y="3080" type="line"/>
+      <point x="2100" y="1960" type="line"/>
+      <point x="1996" y="1848"/>
+      <point x="1788" y="1620"/>
+      <point x="1684" y="1508" type="qcurve"/>
+      <point x="540" y="3080" type="line"/>
+      <point x="1660" y="4616" type="line"/>
     </contour>
   </outline>
 </glyph>

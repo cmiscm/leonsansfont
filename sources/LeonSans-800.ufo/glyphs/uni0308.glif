@@ -3,76 +3,32 @@
   <unicode hex="0308"/>
   <outline>
     <contour>
-      <point x="-895.08" y="4720" type="qcurve"/>
-      <point x="-958.96" y="4720"/>
-      <point x="-1018.24" y="4744.04" type="qcurve"/>
-      <point x="-1058.08" y="4761.46"/>
-      <point x="-1124.96" y="4813.52"/>
-      <point x="-1175.02" y="4880.39"/>
-      <point x="-1206.89" y="4957.1"/>
-      <point x="-1218.48" y="5040.4"/>
-      <point x="-1208.88" y="5124.71"/>
-      <point x="-1192.45" y="5164.56" type="qcurve"/>
-      <point x="-1181.24" y="5190.58"/>
-      <point x="-1151.6" y="5236.66"/>
-      <point x="-1133.18" y="5257.08" type="qcurve"/>
-      <point x="-1090.33" y="5305.14"/>
-      <point x="-1032.06" y="5332.17" type="qcurve"/>
-      <point x="-1000.42" y="5346.99"/>
-      <point x="-930.32" y="5362.81"/>
-      <point x="-895.08" y="5362.81" type="qcurve"/>
-      <point x="-831.2" y="5362.81"/>
-      <point x="-771.93" y="5338.77" type="qcurve"/>
-      <point x="-732.08" y="5321.96"/>
-      <point x="-664.58" y="5269.29"/>
-      <point x="-615.14" y="5202.41"/>
-      <point x="-583.27" y="5125.71"/>
-      <point x="-571.68" y="5043.02"/>
-      <point x="-581.28" y="4959.09"/>
-      <point x="-597.71" y="4918.25" type="qcurve"/>
-      <point x="-608.92" y="4893.22"/>
-      <point x="-638.56" y="4846.77"/>
-      <point x="-656.98" y="4825.73" type="qcurve"/>
-      <point x="-699.83" y="4778.28"/>
-      <point x="-758.1" y="4751.25" type="qcurve"/>
-      <point x="-789.74" y="4735.82"/>
-      <point x="-859.84" y="4720"/>
+      <point x="-854" y="5311" type="qcurve" smooth="yes"/>
+      <point x="-668" y="5311"/>
+      <point x="-406" y="5049"/>
+      <point x="-406" y="4864" type="qcurve" smooth="yes"/>
+      <point x="-406" y="4678"/>
+      <point x="-668" y="4416"/>
+      <point x="-854.0" y="4416.0" type="qcurve" smooth="yes"/>
+      <point x="-1040" y="4416"/>
+      <point x="-1302" y="4678"/>
+      <point x="-1302" y="4864" type="qcurve" smooth="yes"/>
+      <point x="-1302" y="5049"/>
+      <point x="-1040" y="5311"/>
     </contour>
     <contour>
-      <point x="895.08" y="4720" type="qcurve"/>
-      <point x="831.2" y="4720"/>
-      <point x="771.93" y="4744.04" type="qcurve"/>
-      <point x="732.08" y="4761.46"/>
-      <point x="665.2" y="4813.52"/>
-      <point x="615.14" y="4880.39"/>
-      <point x="583.27" y="4957.1"/>
-      <point x="571.68" y="5040.4"/>
-      <point x="581.28" y="5124.71"/>
-      <point x="597.71" y="5164.56" type="qcurve"/>
-      <point x="608.92" y="5190.58"/>
-      <point x="638.56" y="5236.66"/>
-      <point x="656.98" y="5257.08" type="qcurve"/>
-      <point x="699.83" y="5305.14"/>
-      <point x="758.1" y="5332.17" type="qcurve"/>
-      <point x="789.74" y="5346.99"/>
-      <point x="859.84" y="5362.81"/>
-      <point x="895.08" y="5362.81" type="qcurve"/>
-      <point x="958.96" y="5362.81"/>
-      <point x="1018.24" y="5338.77" type="qcurve"/>
-      <point x="1058.08" y="5321.96"/>
-      <point x="1125.58" y="5269.29"/>
-      <point x="1175.02" y="5202.41"/>
-      <point x="1206.89" y="5125.71"/>
-      <point x="1218.48" y="5043.02"/>
-      <point x="1208.88" y="4959.09"/>
-      <point x="1192.45" y="4918.25" type="qcurve"/>
-      <point x="1181.24" y="4893.22"/>
-      <point x="1151.6" y="4846.77"/>
-      <point x="1133.18" y="4825.73" type="qcurve"/>
-      <point x="1090.33" y="4778.28"/>
-      <point x="1032.06" y="4751.25" type="qcurve"/>
-      <point x="1000.42" y="4735.82"/>
-      <point x="930.32" y="4720"/>
+      <point x="854" y="5311" type="qcurve" smooth="yes"/>
+      <point x="1040" y="5311"/>
+      <point x="1302" y="5049"/>
+      <point x="1302" y="4864" type="qcurve" smooth="yes"/>
+      <point x="1302" y="4678"/>
+      <point x="1040" y="4416"/>
+      <point x="854.0" y="4416.0" type="qcurve" smooth="yes"/>
+      <point x="668" y="4416"/>
+      <point x="406" y="4678"/>
+      <point x="406" y="4864" type="qcurve" smooth="yes"/>
+      <point x="406" y="5049"/>
+      <point x="668" y="5311"/>
     </contour>
   </outline>
 </glyph>

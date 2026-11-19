@@ -3,40 +3,18 @@
   <unicode hex="0307"/>
   <outline>
     <contour>
-      <point x="0.0" y="4720.0" type="qcurve"/>
-      <point x="-57.14" y="4720"/>
-      <point x="-110.19" y="4741.47" type="qcurve"/>
-      <point x="-145.9" y="4756.81"/>
-      <point x="-206.01" y="4803.67"/>
-      <point x="-250.86" y="4863.79"/>
-      <point x="-278.67" y="4932.21"/>
-      <point x="-289.67" y="5006.71"/>
-      <point x="-280.65" y="5082.2"/>
-      <point x="-266.23" y="5117.9" type="qcurve"/>
-      <point x="-256.09" y="5141.31"/>
-      <point x="-229.56" y="5182.25"/>
-      <point x="-213.21" y="5200.59" type="qcurve"/>
-      <point x="-174.54" y="5243.47"/>
-      <point x="-122.48" y="5267.88" type="qcurve"/>
-      <point x="-93.99" y="5281.15"/>
-      <point x="-31.61" y="5295.41"/>
-      <point x="0" y="5295.41" type="qcurve"/>
-      <point x="57.14" y="5295.41"/>
-      <point x="110.19" y="5273.95" type="qcurve"/>
-      <point x="145.9" y="5258.73"/>
-      <point x="206.16" y="5211.74"/>
-      <point x="250.86" y="5151.63"/>
-      <point x="278.67" y="5083.2"/>
-      <point x="289.67" y="5008.85"/>
-      <point x="280.65" y="4934.18"/>
-      <point x="266.23" y="4897.51" type="qcurve"/>
-      <point x="256.09" y="4875.07"/>
-      <point x="229.56" y="4833.31"/>
-      <point x="213.21" y="4814.81" type="qcurve"/>
-      <point x="174.54" y="4772.08"/>
-      <point x="122.48" y="4747.67" type="qcurve"/>
-      <point x="93.99" y="4734.26"/>
-      <point x="31.61" y="4720"/>
+      <point x="2" y="5306" type="qcurve" smooth="yes"/>
+      <point x="186" y="5306"/>
+      <point x="447" y="5045"/>
+      <point x="447" y="4861" type="qcurve" smooth="yes"/>
+      <point x="447" y="4677"/>
+      <point x="186" y="4416"/>
+      <point x="2.0" y="4416.0" type="qcurve" smooth="yes"/>
+      <point x="-182" y="4416"/>
+      <point x="-443" y="4677"/>
+      <point x="-443" y="4861" type="qcurve" smooth="yes"/>
+      <point x="-443" y="5045"/>
+      <point x="-182" y="5306"/>
     </contour>
   </outline>
 </glyph>
